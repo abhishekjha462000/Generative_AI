@@ -16,3 +16,5 @@ sentence-transformers
 langchain_huggingface
 tqdm
 faiss-cpu
+langchain-google-genai
+huggingface_hub
